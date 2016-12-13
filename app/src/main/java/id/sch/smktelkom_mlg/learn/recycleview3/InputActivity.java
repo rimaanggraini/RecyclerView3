@@ -35,8 +35,9 @@ public class InputActivity extends AppCompatActivity {
         etDetail = (EditText) findViewById(R.id.editTextDetail);
         etLokasi = (EditText) findViewById(R.id.editTextLokasi);
         ivFoto = (ImageView) findViewById(R.id.imageViewFoto);
-        
-        
+
+
+
         ivFoto.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
