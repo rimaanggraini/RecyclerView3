@@ -22,13 +22,14 @@ public class InputActivity extends AppCompatActivity {
     ImageView ivFoto;
     Uri uriFoto;
     Hotel hotel;
-    
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_input);
 
+        
         etJudul = (EditText) findViewById(R.id.editTextNama);
         etDeskripsi = (EditText) findViewById(R.id.editTextDeskripsi);
         etDetail = (EditText) findViewById(R.id.editTextDetail);
