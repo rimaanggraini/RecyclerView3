@@ -1,0 +1,22 @@
+[
+  {
+    "merged": "D:\\RecycleView3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_search_black_24dp.png",
+    "source": "D:\\RecycleView3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_search_black_24dp.png"
+  },
+  {
+    "merged": "D:\\RecycleView3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_favorite_black_24dp.png",
+    "source": "D:\\RecycleView3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_favorite_black_24dp.png"
+  },
+  {
+    "merged": "D:\\RecycleView3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_camera_black_24dp.png",
+    "source": "D:\\RecycleView3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_camera_black_24dp.png"
+  },
+  {
+    "merged": "D:\\RecycleView3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_share_black_24dp.png",
+    "source": "D:\\RecycleView3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_share_black_24dp.png"
+  },
+  {
+    "merged": "D:\\RecycleView3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_add_black_24dp.png",
+    "source": "D:\\RecycleView3\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_add_black_24dp.png"
+  }
+]

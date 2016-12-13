@@ -1,0 +1,1224 @@
+[
+  {
+    "outputFile": "D:\\RecycleView3\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+    "map": [
+      {
+        "to": {
+          "startLine": 2,
+          "startColumn": 4,
+          "startOffset": 55,
+          "endLine": 11,
+          "endColumn": 19,
+          "endOffset": 611
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\src\\main\\res\\values-v21\\arrays.xml",
+          "position": {
+            "startLine": 25,
+            "startColumn": 4,
+            "startOffset": 956,
+            "endLine": 34,
+            "endColumn": 19,
+            "endOffset": 1512
+          }
+        }
+      },
+      {
+        "to": {
+          "startLine": 12,
+          "startColumn": 4,
+          "startOffset": 616,
+          "endLine": 55,
+          "endColumn": 19,
+          "endOffset": 3773
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\src\\main\\res\\values-v21\\arrays.xml",
+          "position": {
+            "startLine": 35,
+            "startColumn": 4,
+            "startOffset": 1517,
+            "endLine": 78,
+            "endColumn": 19,
+            "endOffset": 4674
+          }
+        }
+      },
+      {
+        "to": {
+          "startLine": 56,
+          "startColumn": 4,
+          "startOffset": 3778,
+          "endLine": 63,
+          "endColumn": 19,
+          "endOffset": 4154
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\src\\main\\res\\values-v21\\arrays.xml",
+          "position": {
+            "startLine": 79,
+            "startColumn": 4,
+            "startOffset": 4679,
+            "endLine": 86,
+            "endColumn": 19,
+            "endOffset": 5055
+          }
+        }
+      },
+      {
+        "to": {
+          "startLine": 64,
+          "startColumn": 4,
+          "startOffset": 4159,
+          "endLine": 71,
+          "endColumn": 19,
+          "endOffset": 4418
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\src\\main\\res\\values-v21\\arrays.xml",
+          "position": {
+            "startLine": 17,
+            "startColumn": 4,
+            "startOffset": 692,
+            "endLine": 24,
+            "endColumn": 19,
+            "endOffset": 951
+          }
+        }
+      },
+      {
+        "to": {
+          "startLine": 72,
+          "startColumn": 4,
+          "startOffset": 4423,
+          "endLine": 79,
+          "endColumn": 12,
+          "endOffset": 4663
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\src\\main\\res\\values-v21\\arrays.xml",
+          "position": {
+            "startLine": 87,
+            "startColumn": 4,
+            "startOffset": 5060,
+            "endLine": 94,
+            "endColumn": 12,
+            "endOffset": 5300
+          }
+        }
+      },
+      {
+        "to": {
+          "startLine": 80,
+          "startColumn": 4,
+          "startOffset": 4668,
+          "endLine": 85,
+          "endColumn": 12,
+          "endOffset": 4964
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\src\\main\\res\\values-v21\\styles.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 86,
+          "startColumn": 4,
+          "startOffset": 4969,
+          "endColumn": 90,
+          "endOffset": 5055
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 87,
+          "startColumn": 4,
+          "startOffset": 5060,
+          "endColumn": 102,
+          "endOffset": 5158
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 88,
+          "startColumn": 4,
+          "startOffset": 5163,
+          "endColumn": 102,
+          "endOffset": 5261
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 89,
+          "startColumn": 4,
+          "startOffset": 5266,
+          "endColumn": 104,
+          "endOffset": 5366
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 90,
+          "startColumn": 4,
+          "startOffset": 5371,
+          "endColumn": 106,
+          "endOffset": 5473
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 91,
+          "startColumn": 4,
+          "startOffset": 5478,
+          "endColumn": 108,
+          "endOffset": 5582
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 92,
+          "startColumn": 4,
+          "startOffset": 5587,
+          "endColumn": 108,
+          "endOffset": 5691
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 93,
+          "startColumn": 4,
+          "startOffset": 5696,
+          "endColumn": 108,
+          "endOffset": 5800
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 94,
+          "startColumn": 4,
+          "startOffset": 5805,
+          "endColumn": 108,
+          "endOffset": 5909
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 95,
+          "startColumn": 4,
+          "startOffset": 5914,
+          "endColumn": 108,
+          "endOffset": 6018
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 96,
+          "startColumn": 4,
+          "startOffset": 6023,
+          "endColumn": 106,
+          "endOffset": 6125
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 97,
+          "startColumn": 4,
+          "startOffset": 6130,
+          "endColumn": 102,
+          "endOffset": 6228
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 98,
+          "startColumn": 4,
+          "startOffset": 6233,
+          "endColumn": 118,
+          "endOffset": 6347
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 99,
+          "startColumn": 4,
+          "startOffset": 6352,
+          "endLine": 100,
+          "endColumn": 12,
+          "endOffset": 6502
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 101,
+          "startColumn": 4,
+          "startOffset": 6507,
+          "endLine": 102,
+          "endColumn": 12,
+          "endOffset": 6657
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 103,
+          "startColumn": 4,
+          "startOffset": 6662,
+          "endColumn": 104,
+          "endOffset": 6762
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 104,
+          "startColumn": 4,
+          "startOffset": 6767,
+          "endColumn": 120,
+          "endOffset": 6883
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 105,
+          "startColumn": 4,
+          "startOffset": 6888,
+          "endColumn": 100,
+          "endOffset": 6984
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 106,
+          "startColumn": 4,
+          "startOffset": 6989,
+          "endLine": 107,
+          "endColumn": 12,
+          "endOffset": 7131
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 108,
+          "startColumn": 4,
+          "startOffset": 7136,
+          "endLine": 109,
+          "endColumn": 12,
+          "endOffset": 7272
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 110,
+          "startColumn": 4,
+          "startOffset": 7277,
+          "endColumn": 102,
+          "endOffset": 7375
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 111,
+          "startColumn": 4,
+          "startOffset": 7380,
+          "endColumn": 118,
+          "endOffset": 7494
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 112,
+          "startColumn": 4,
+          "startOffset": 7499,
+          "endColumn": 106,
+          "endOffset": 7601
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 113,
+          "startColumn": 4,
+          "startOffset": 7606,
+          "endColumn": 102,
+          "endOffset": 7704
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 114,
+          "startColumn": 4,
+          "startOffset": 7709,
+          "endLine": 115,
+          "endColumn": 12,
+          "endOffset": 7859
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 116,
+          "startColumn": 4,
+          "startOffset": 7864,
+          "endLine": 117,
+          "endColumn": 12,
+          "endOffset": 8030
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 118,
+          "startColumn": 4,
+          "startOffset": 8035,
+          "endLine": 119,
+          "endColumn": 12,
+          "endOffset": 8179
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 120,
+          "startColumn": 4,
+          "startOffset": 8184,
+          "endLine": 121,
+          "endColumn": 12,
+          "endOffset": 8344
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 122,
+          "startColumn": 4,
+          "startOffset": 8349,
+          "endLine": 123,
+          "endColumn": 12,
+          "endOffset": 8501
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 124,
+          "startColumn": 4,
+          "startOffset": 8506,
+          "endLine": 125,
+          "endColumn": 12,
+          "endOffset": 8652
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 126,
+          "startColumn": 4,
+          "startOffset": 8657,
+          "endColumn": 118,
+          "endOffset": 8771
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 127,
+          "startColumn": 4,
+          "startOffset": 8776,
+          "endLine": 131,
+          "endColumn": 12,
+          "endOffset": 9143
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 132,
+          "startColumn": 4,
+          "startOffset": 9148,
+          "endLine": 133,
+          "endColumn": 12,
+          "endOffset": 9292
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 134,
+          "startColumn": 4,
+          "startOffset": 9297,
+          "endLine": 135,
+          "endColumn": 12,
+          "endOffset": 9441
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 136,
+          "startColumn": 4,
+          "startOffset": 9446,
+          "endColumn": 111,
+          "endOffset": 9553
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 137,
+          "startColumn": 4,
+          "startOffset": 9558,
+          "endColumn": 146,
+          "endOffset": 9700
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 138,
+          "startColumn": 4,
+          "startOffset": 9705,
+          "endLine": 139,
+          "endColumn": 12,
+          "endOffset": 9853
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 140,
+          "startColumn": 4,
+          "startOffset": 9858,
+          "endLine": 141,
+          "endColumn": 12,
+          "endOffset": 10000
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 142,
+          "startColumn": 4,
+          "startOffset": 10005,
+          "endColumn": 74,
+          "endOffset": 10075
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 143,
+          "startColumn": 4,
+          "startOffset": 10080,
+          "endColumn": 88,
+          "endOffset": 10164
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 144,
+          "startColumn": 4,
+          "startOffset": 10169,
+          "endColumn": 86,
+          "endOffset": 10251
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 145,
+          "startColumn": 4,
+          "startOffset": 10256,
+          "endColumn": 100,
+          "endOffset": 10352
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 146,
+          "startColumn": 4,
+          "startOffset": 10357,
+          "endColumn": 102,
+          "endOffset": 10455
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 147,
+          "startColumn": 4,
+          "startOffset": 10460,
+          "endLine": 190,
+          "endColumn": 12,
+          "endOffset": 13307
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 191,
+          "startColumn": 4,
+          "startOffset": 13312,
+          "endLine": 193,
+          "endColumn": 12,
+          "endOffset": 13493
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 194,
+          "startColumn": 4,
+          "startOffset": 13498,
+          "endLine": 237,
+          "endColumn": 12,
+          "endOffset": 16357
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 238,
+          "startColumn": 4,
+          "startOffset": 16362,
+          "endLine": 240,
+          "endColumn": 12,
+          "endOffset": 16555
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 241,
+          "startColumn": 4,
+          "startOffset": 16560,
+          "endLine": 243,
+          "endColumn": 12,
+          "endOffset": 16755
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 244,
+          "startColumn": 4,
+          "startOffset": 16760,
+          "endLine": 245,
+          "endColumn": 12,
+          "endOffset": 16878
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 246,
+          "startColumn": 4,
+          "startOffset": 16883,
+          "endLine": 247,
+          "endColumn": 12,
+          "endOffset": 17001
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 248,
+          "startColumn": 4,
+          "startOffset": 17006,
+          "endLine": 249,
+          "endColumn": 12,
+          "endOffset": 17114
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 250,
+          "startColumn": 4,
+          "startOffset": 17119,
+          "endLine": 252,
+          "endColumn": 12,
+          "endOffset": 17297
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 253,
+          "startColumn": 4,
+          "startOffset": 17302,
+          "endLine": 254,
+          "endColumn": 12,
+          "endOffset": 17428
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 255,
+          "startColumn": 4,
+          "startOffset": 17433,
+          "endLine": 257,
+          "endColumn": 12,
+          "endOffset": 17629
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 258,
+          "startColumn": 4,
+          "startOffset": 17634,
+          "endColumn": 88,
+          "endOffset": 17718
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 259,
+          "startColumn": 4,
+          "startOffset": 17723,
+          "endColumn": 110,
+          "endOffset": 17829
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 260,
+          "startColumn": 4,
+          "startOffset": 17834,
+          "endLine": 262,
+          "endColumn": 12,
+          "endOffset": 18062
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 263,
+          "startColumn": 4,
+          "startOffset": 18067,
+          "endColumn": 100,
+          "endOffset": 18163
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 264,
+          "startColumn": 4,
+          "startOffset": 18168,
+          "endColumn": 94,
+          "endOffset": 18258
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 265,
+          "startColumn": 4,
+          "startOffset": 18263,
+          "endColumn": 122,
+          "endOffset": 18381
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 266,
+          "startColumn": 4,
+          "startOffset": 18386,
+          "endColumn": 128,
+          "endOffset": 18510
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 267,
+          "startColumn": 4,
+          "startOffset": 18515,
+          "endColumn": 116,
+          "endOffset": 18627
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 268,
+          "startColumn": 4,
+          "startOffset": 18632,
+          "endLine": 270,
+          "endColumn": 12,
+          "endOffset": 18804
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 271,
+          "startColumn": 4,
+          "startOffset": 18809,
+          "endColumn": 98,
+          "endOffset": 18903
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 272,
+          "startColumn": 4,
+          "startOffset": 18908,
+          "endLine": 273,
+          "endColumn": 12,
+          "endOffset": 19038
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 274,
+          "startColumn": 4,
+          "startOffset": 19043,
+          "endLine": 275,
+          "endColumn": 12,
+          "endOffset": 19181
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 276,
+          "startColumn": 4,
+          "startOffset": 19186,
+          "endLine": 277,
+          "endColumn": 12,
+          "endOffset": 19316
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 278,
+          "startColumn": 4,
+          "startOffset": 19321,
+          "endLine": 279,
+          "endColumn": 12,
+          "endOffset": 19435
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 280,
+          "startColumn": 4,
+          "startOffset": 19440,
+          "endLine": 283,
+          "endColumn": 12,
+          "endOffset": 19636
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 284,
+          "startColumn": 4,
+          "startOffset": 19641,
+          "endLine": 285,
+          "endColumn": 12,
+          "endOffset": 19755
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 286,
+          "startColumn": 4,
+          "startOffset": 19760,
+          "endColumn": 92,
+          "endOffset": 19848
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 287,
+          "startColumn": 4,
+          "startOffset": 19853,
+          "endColumn": 110,
+          "endOffset": 19959
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 288,
+          "startColumn": 4,
+          "startOffset": 19964,
+          "endColumn": 55,
+          "endOffset": 20015
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 289,
+          "startColumn": 4,
+          "startOffset": 20020,
+          "endLine": 290,
+          "endColumn": 12,
+          "endOffset": 20122
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 291,
+          "startColumn": 4,
+          "startOffset": 20127,
+          "endLine": 294,
+          "endColumn": 12,
+          "endOffset": 20317
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 295,
+          "startColumn": 4,
+          "startOffset": 20322,
+          "endLine": 296,
+          "endColumn": 12,
+          "endOffset": 20428
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 297,
+          "startColumn": 4,
+          "startOffset": 20433,
+          "endLine": 298,
+          "endColumn": 12,
+          "endOffset": 20561
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 299,
+          "startColumn": 4,
+          "startOffset": 20566,
+          "endColumn": 94,
+          "endOffset": 20656
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 300,
+          "startColumn": 4,
+          "startOffset": 20661,
+          "endColumn": 90,
+          "endOffset": 20747
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 301,
+          "startColumn": 4,
+          "startOffset": 20752,
+          "endColumn": 90,
+          "endOffset": 20838
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 302,
+          "startColumn": 4,
+          "startOffset": 20843,
+          "endColumn": 116,
+          "endOffset": 20955
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 303,
+          "startColumn": 4,
+          "startOffset": 20960,
+          "endLine": 304,
+          "endColumn": 12,
+          "endOffset": 21094
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 305,
+          "startColumn": 4,
+          "startOffset": 21099,
+          "endLine": 314,
+          "endColumn": 12,
+          "endOffset": 21607
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 315,
+          "startColumn": 4,
+          "startOffset": 21612,
+          "endLine": 324,
+          "endColumn": 12,
+          "endOffset": 22132
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 325,
+          "startColumn": 4,
+          "startOffset": 22137,
+          "endLine": 334,
+          "endColumn": 12,
+          "endOffset": 22755
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 335,
+          "startColumn": 4,
+          "startOffset": 22760,
+          "endColumn": 56,
+          "endOffset": 22812
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 336,
+          "startColumn": 4,
+          "startOffset": 22817,
+          "endColumn": 57,
+          "endOffset": 22870
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      },
+      {
+        "to": {
+          "startLine": 337,
+          "startColumn": 4,
+          "startOffset": 22875,
+          "endLine": 339,
+          "endColumn": 12,
+          "endOffset": 23064
+        },
+        "from": {
+          "file": "D:\\RecycleView3\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\values-v21\\values-v21.xml"
+        }
+      }
+    ]
+  }
+]
