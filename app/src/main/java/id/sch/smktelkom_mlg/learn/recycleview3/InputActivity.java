@@ -43,7 +43,7 @@ public class InputActivity extends AppCompatActivity {
             public void onClick(View v) {
                 pickPhoto();
             }
-            
+
 
             
         });
@@ -77,6 +77,7 @@ public class InputActivity extends AppCompatActivity {
         etLokasi.setText(hotel.lokasi);
         uriFoto= Uri.parse(hotel.foto);
         ivFoto.setImageURI(uriFoto);
+        
 
     }
 
