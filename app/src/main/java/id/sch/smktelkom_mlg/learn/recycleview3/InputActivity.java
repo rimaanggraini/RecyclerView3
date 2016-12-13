@@ -43,6 +43,7 @@ public class InputActivity extends AppCompatActivity {
             public void onClick(View v) {
                 pickPhoto();
             }
+            
 
             
         });
